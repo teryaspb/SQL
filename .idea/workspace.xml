@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fe35282-dca7-40f4-a918-4199596869b4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/code/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/uwsgi.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/requirmenets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,8 +83,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirmenets.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/requirmenets.txt">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
@@ -167,7 +166,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-2055" />
     <option name="y" value="466" />
     <option name="width" value="1936" />
@@ -355,8 +354,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1866" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1866" y="-8" width="1874" height="1096" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32985386" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -364,8 +362,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32985386" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3152401" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3131524" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27232635" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3131524" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27232635" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -742,7 +740,7 @@
     <entry file="file://$PROJECT_DIR$/code/runtime.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/requirmenets.txt">
+    <entry file="file://$PROJECT_DIR$/code/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
